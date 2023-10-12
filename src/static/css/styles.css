@@ -1,7 +1,7 @@
 body {
     background-image: url("../therock.jpg");
     margin-top: 50px;
-    font-family: 'Lato';
+    font-family: 'Comic Sans';
 }
 
 .item {
@@ -35,5 +35,5 @@ body {
 }
 
 button:focus {
-    border: 1px solid #333;
+    border: 10px solid #333;
 }
